@@ -1,14 +1,3 @@
-const lista1 = [
-    1,
-    2,
-    5,
-    4,
-    1,
-    5,
-    2,
-    1,
-]
-
 const lista1 = {};
 
 lista1.map( //ayuda a recorrer el array el map
