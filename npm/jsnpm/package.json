@@ -12,5 +12,8 @@
     "package"
   ],
   "author": "Darwin Quispe Soto @dardanqsot",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
